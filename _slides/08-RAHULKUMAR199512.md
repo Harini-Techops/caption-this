@@ -5,5 +5,7 @@ title: "Welcome to our slide deck!"
 
 Caption here
 
+Hello form Rahul.
+
 ![cooler-octocat](https://octodex.github.com/images/twenty-percent-cooler-octocat.png)
 {: .center}
